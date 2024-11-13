@@ -235,7 +235,7 @@ TComponent& Registry::GetComponent(Entity entity) const
 {
     const auto componentId = Component<TComponent>::GetId();
     const auto entityId = entity.GetId();
-    auto componentPool = std::static_pointer_cast::<Pool<TComponent>>(componentPools[componentId]);
+    auto componentPool = std::static_pointer_cast<Pool<TComponent>>(componentPools[componentId]);
     return componentPool->Get(entityId);
 }
 
