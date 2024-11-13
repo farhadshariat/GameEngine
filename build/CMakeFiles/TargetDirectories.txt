@@ -1,0 +1,14 @@
+/home/farhad/Desktop/C++/GameEngine/build/CMakeFiles/gamengine.dir
+/home/farhad/Desktop/C++/GameEngine/build/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/CMakeFiles/rebuild_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/CMakeFiles/engine_core.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/CMakeFiles/rebuild_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Game/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Game/CMakeFiles/rebuild_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Logger/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Logger/CMakeFiles/rebuild_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/ECS/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/ECS/CMakeFiles/rebuild_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Systems/CMakeFiles/edit_cache.dir
+/home/farhad/Desktop/C++/GameEngine/build/src/Systems/CMakeFiles/rebuild_cache.dir

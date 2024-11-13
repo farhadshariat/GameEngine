@@ -1,0 +1,2 @@
+/usr/bin/ar qc libengine_core.a CMakeFiles/engine_core.dir/Logger/Logger.cpp.o CMakeFiles/engine_core.dir/Game/Game.cpp.o CMakeFiles/engine_core.dir/ECS/ECS.cpp.o
+/usr/bin/ranlib libengine_core.a

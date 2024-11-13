@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/gamengine.dir/main.cpp.o -o gamengine  src/libengine_core.a /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2_image.so /usr/lib/x86_64-linux-gnu/liblua5.3.so -lm 

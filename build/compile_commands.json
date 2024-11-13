@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/farhad/Desktop/C++/GameEngine/build",
+  "command": "/usr/bin/g++  -I/home/farhad/Desktop/C++/GameEngine/libs -I/home/farhad/Desktop/C++/GameEngine/src/src -isystem /usr/include/SDL2 -g -std=gnu++23 -Wall -Wextra -o CMakeFiles/gamengine.dir/main.cpp.o -c /home/farhad/Desktop/C++/GameEngine/main.cpp",
+  "file": "/home/farhad/Desktop/C++/GameEngine/main.cpp",
+  "output": "CMakeFiles/gamengine.dir/main.cpp.o"
+},
+{
+  "directory": "/home/farhad/Desktop/C++/GameEngine/build/src",
+  "command": "/usr/bin/g++  -I/home/farhad/Desktop/C++/GameEngine/src/src -g -std=gnu++23 -o CMakeFiles/engine_core.dir/Logger/Logger.cpp.o -c /home/farhad/Desktop/C++/GameEngine/src/Logger/Logger.cpp",
+  "file": "/home/farhad/Desktop/C++/GameEngine/src/Logger/Logger.cpp",
+  "output": "src/CMakeFiles/engine_core.dir/Logger/Logger.cpp.o"
+},
+{
+  "directory": "/home/farhad/Desktop/C++/GameEngine/build/src",
+  "command": "/usr/bin/g++  -I/home/farhad/Desktop/C++/GameEngine/src/src -g -std=gnu++23 -o CMakeFiles/engine_core.dir/Game/Game.cpp.o -c /home/farhad/Desktop/C++/GameEngine/src/Game/Game.cpp",
+  "file": "/home/farhad/Desktop/C++/GameEngine/src/Game/Game.cpp",
+  "output": "src/CMakeFiles/engine_core.dir/Game/Game.cpp.o"
+},
+{
+  "directory": "/home/farhad/Desktop/C++/GameEngine/build/src",
+  "command": "/usr/bin/g++  -I/home/farhad/Desktop/C++/GameEngine/src/src -g -std=gnu++23 -o CMakeFiles/engine_core.dir/ECS/ECS.cpp.o -c /home/farhad/Desktop/C++/GameEngine/src/ECS/ECS.cpp",
+  "file": "/home/farhad/Desktop/C++/GameEngine/src/ECS/ECS.cpp",
+  "output": "src/CMakeFiles/engine_core.dir/ECS/ECS.cpp.o"
+}
+]
